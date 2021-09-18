@@ -27,7 +27,7 @@ DB_PW="password"
 ## Usage
 below is the walkthrough video for all routes
 
-[how to video](images/demo.gif)
+[how to video](images/Demo.gif)
 ## Screenshot
 ![ScreenShot](images/screenshot.png)
 
